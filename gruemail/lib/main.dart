@@ -58,8 +58,8 @@ class Gruemail extends StatelessWidget {
               Expanded(child:Column(
                 crossAxisAlignment:CrossAxisAlignment.start,
                 children: [
-                  Text('Você recebeu 10 mil em bõnus', style: TextStyle(fontSize: 13,)),
-                  Text('vai perder essa chance ⭐', style: TextStyle(fontSize:15,)),
+                  Text('Você ganhou na loteria saque seu prêmio!', style: TextStyle(fontSize: 13,)),
+                  Text('Não é golpe!', style: TextStyle(fontSize:15,)),
                 ],
               )
               ),
